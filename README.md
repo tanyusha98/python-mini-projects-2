@@ -12,15 +12,25 @@ This repository contains small Python projects with corresponding tests.
 
 python-mini-projects-2/
 │
+
 ├─ project1.py
+
 ├─ project2.py
+
 ├─ project3.py
+
 ├─ README.md
+
 ├─ requirements.txt
+
 ├─ .gitignore
+
 └─ tests/
+
 ├─ test_project1.py
+
 ├─ test_project2.py
+
 └─ test_project3.py
 
 ## How to run
